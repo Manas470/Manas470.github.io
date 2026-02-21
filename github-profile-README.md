@@ -61,11 +61,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manas470&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Manas470&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas470&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=ffffff)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manas470&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manas470&theme=dark&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Manas470&theme=dark&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
 
 </div>
 
